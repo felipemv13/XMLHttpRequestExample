@@ -1,0 +1,3 @@
+get("url-api", function (data){
+  console.log(data);
+});
